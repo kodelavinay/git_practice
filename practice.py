@@ -1,4 +1,4 @@
 
 
 
-print("This is first Python Program")
+print("This is sample pyhon")
